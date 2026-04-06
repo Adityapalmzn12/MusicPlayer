@@ -1,2 +1,2 @@
 # MusicPlayer
-MusicPlayer Android
+MusicPlayer Android app
